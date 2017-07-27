@@ -27,8 +27,7 @@ generative adversarial networks.
 
 #### Outlines
 
-We will divide the tutorial into 3 parts.
-
+[slides](gan_tutorial.pdf)
 
 ##### Part 1: 
 
@@ -38,7 +37,7 @@ We will divide the tutorial into 3 parts.
 
 ##### Part 2: 
 
-###### 4. Video generation models
+###### 4. Joint image distribution and video distribution learning
 ###### 5. Applications with focus on image translation
 
 
